@@ -120,7 +120,7 @@ const Page: React.FC = () => {
             Hey there, I&apos;m Ale. I&apos;m a full-stack developer constantly shipping products. I&apos;ve taught myself to code, tried my hand at doing a startup, and worked for VC-backed companies in Silicon Valley. Through these experiences, I&apos;ve seen firsthand how easy it is for people to get stuck overcomplicating their ideas. Trust me - I&apos;ve been there myself.
             </p>
             <p className="mb-6 text-justify">
-            I learned that the key is to start small and keep it simple, focusing on core features and remove as much friction as possible to get started. Great things are almost always made in successive versions. Start with the simplest thing that could possibly work, then evolve from there.
+            I learned that the key is to start small and keep it simple, focusing on core features and removing as much friction as possible to get started. Great things are almost always made in successive versions. Start with the simplest thing that could possibly work, then evolve from there.
             </p>
             <p className="mb-6 text-justify">
             That&apos;s why I started 4amDev. I believe in the power of getting something simple but functional into people&apos;s hands, fast. This way, you remove the friction that often prevents great ideas from becoming reality. Once you have that initial version, it’s easier to just keep going.
